@@ -1,0 +1,1 @@
+export const defaultLabel = ['Label1', 'Label2', 'Label3']

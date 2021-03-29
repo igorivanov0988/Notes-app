@@ -1,0 +1,9 @@
+.card_container {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: auto;
+    padding: 20px;
+}
